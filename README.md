@@ -58,6 +58,13 @@ A web application that helps solo travellers plan safer routes by avoiding crime
 - `crime_filter.py`: Utility for filtering crime data
 - `train_dbscan.py`: Script for training the DBSCAN clustering model
 
+## Relevant Images:
+<img width="805" height="427" alt="image" src="https://github.com/user-attachments/assets/3caf12bf-9523-43d3-b5f3-312528f71ac0" />
+<img width="240" height="240" alt="image" src="https://github.com/user-attachments/assets/8bb94bd6-4e36-4fb0-b569-74fc279b4505" />
+<img width="222" height="222" alt="image" src="https://github.com/user-attachments/assets/e1106e60-273e-481b-af64-5d941f26c85a" />
+<img width="896" height="512" alt="image" src="https://github.com/user-attachments/assets/d4401653-d5aa-47a9-a393-39e08ff69ac7" />
+
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.

@@ -68,7 +68,3 @@ A web application that helps solo travellers plan safer routes by avoiding crime
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details. 
